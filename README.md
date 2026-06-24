@@ -1,7 +1,7 @@
 
 # Supporting Information
 
-This repository contains (1) Relaxed structures (VASP POSCAR format and cif format) of Al1−xMxN alloys, where M = Hf, Zr, Mg, Ti, Si with x = 0, 0.028. Only with M = Hf the alloy has x = 0.056. At x = 0.056, each alloy has a close and far alloy random substitution. (2) Intermediate images along switching pathway and the corresponding energy density MEP.
+This repository contains (1) Relaxed structures (VASP POSCAR format) of Al<sub>1−*x*</sub>*M*<sub>*x*</sub>N alloys, where *M* = Hf, Zr, Ti, Si, Mg at compositions, *x* = 0.028. Relaxed structures of Al<sub>1−*x*</sub>Hf<sub>*x*</sub>N at *x* = 0.056 (Hf-far and Hf-close) are provided. (2) Intermediate images (VASP POSCAR format) along minimum energy switching pathway of Al<sub>1−*x*</sub>Hf<sub>*x*</sub>N at *x* = 0.028 and 0.056.
 
 This repository accompanies the paper "Charge Localization is the Key to Designing Wurtzite Ferroelectrics Through Heterovalent Alloying".
 
